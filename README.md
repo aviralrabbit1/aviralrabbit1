@@ -118,6 +118,8 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 <!-- 
 [![Aviral's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aviralrabbit1&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<!-- ![Aviral's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg) -->
+
 </details>
 <!-- 
 <a href="https://www.instagram.com/aviral.rabbit/">
