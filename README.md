@@ -104,10 +104,12 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 <details>
 <summary>Miscellaneous :</summary>
 
+<a  href="https://aviralrabbit1.github.io"><img align="right" width="35%" alt="My Avatar" src="assets/Avatar.jpeg" /></a>
+
 - **Working**: 🔭 I’m currently working on ... a sci-fi themed nasa project(educational).
 - **Learning**: 🌱 I’m currently learning Node, MongoDB, CI/CD, Redux-toolkit.
 - **Collaboration** :👯 I’m looking to collaborate on any new interesting project.
-- **Hobbies** : Apart from development 🖥, I like music 🎹 and poetry 📝✍.
+- **Hobbies** : I like music 🎹, poetry 📝✍ , anime and gaming 🎮.
 <!-- 
 [![Aviral's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aviralrabbit1&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
