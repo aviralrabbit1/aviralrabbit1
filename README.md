@@ -1,12 +1,18 @@
-# Hello people! 👋👋
+# Hello people! 👋👋 I am _Aviral Verma_. 
 
-I am _Aviral Verma_. I've collaborated in the development of an open source novel full-stack language/library framework **FTD** in an Indian-based tech startup [FifthTry](https://www.fifthtry.com/) as a **Software/backend Developer Intern**  ![computer](https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png), where i employed Rust, Django, and **FTD** as the tech stack for development.
+## A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45">
+
+I have done **Post graduation🎓** from [IIIT Allahabad](https://www.iiita.ac.in/) in **IT(spl. in Bioinformatics)**. I'm a **Tech Enthusiast💻** passionate about learning and working with new tech, frameworks and libraries. 
+
+## Experience
+
+I've collaborated in the development of an open source novel full-stack language/library framework **FTD** in an Indian-based tech startup [FifthTry](https://www.fifthtry.com/) as a **Software/backend Developer Intern** 💼, where i employed Rust, Django, and **FTD** as the tech stack for development.
 
 There I played a role in the configuration of Continuous Integration/Continuous Deployment (CI/CD) for the FTD starter template and facilitated Debian installation on Linux-based systems along with developing package manager (FPM, now FASTN) functionality by incorporating additional tests for its commands.
 
-![rocket](https://github.githubassets.com/images/icons/emoji/unicode/1f680.png) 
+<!-- ![rocket](https://github.githubassets.com/images/icons/emoji/unicode/1f680.png)  -->
 
-## Technologies I've worked with:
+## Technologies I've Learned/worked with:
 - Rust
 - React
 - Node
@@ -16,6 +22,8 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 
 <p align="center"> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a>
+<a><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></a>
+<a><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code></a>
 <a href="https://nodejs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png" alt="react" width="70" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a>
@@ -31,20 +39,69 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 <!-- <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="40" height="40"/> </a> -->
 </p>
 
-## 🎊 Few of my awesome projects:
+## 🖥️ Setup i have worked with:
+<p>
+
+<img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6">
+<img src="https://img.shields.io/badge/Ubuntu-555555.svg?&style=flat-square&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C">
+<img src="https://img.shields.io/badge/Brave-555555.svg?&style=flat-square&logo=Brave&logoColor=orange">
+<img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC">
+<img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=Intellijidea&logoColor=white&bg_color=000">
+<img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626">
+<img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760">
+
+</p>
+
+## 🎊 Few of my projects:
 - [Connect-4](https://aviralrabbit1.github.io/connect-4/) : A game where you have to join 4 dots either horizontally, vertically or diagonally.
 - [3js-world](https://aviral-3js-portfolio.web.app/) : A trial of three.js framework by me.
 - [AMDB](https://amdb-zeta.vercel.app/) : A clone of IMDB movie app.
 - [Chatroom](https://aviralchatrooms.netlify.app/) : A simple chat app based on [chatengine.io](chatengine.io)
 
-## 📫 How to reach me?
 
-- [LinkedIn](https://www.linkedin.com/in/aviral-verma-iiita/)
-- [Mail](aviral.robin@gmail.com)
+<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=center>
 
 
-## Miscellaneous
+## 📫 Find me at -
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aviral-verma-iiita/)](https://www.linkedin.com/in/aviral-verma-iiita/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aviral.robin@gmail.com)](mailto:aviral.robin@gmail.com) 
+[![Coding ninjas Badge](https://img.shields.io/badge/-codingninjas-fff?style=flat-square&logo=codingninjas&logoColor=orange&link=https://www.codingninjas.com/studio/profile/aviralrabbit13)](https://www.codingninjas.com/studio/profile/aviralrabbit13)
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-050c1b?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/aviral_robin)](https://www.hackerrank.com/aviral_robin)
+<!-- [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-fff?style=flat-square&logo=LeetCode&logoColor=gold&link=https://leetcode.com/aviralrabbit13/)](https://leetcode.com/aviralrabbit13/) -->
+
+
+### 📊 Quick Stats :
+
+<p align="center">
+<br>
+<a  href="https://github.com/aviralrabbit1">
+    <img  style="margin:0.5rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralrabbit1&layout=donut&hide=Html&langs_count=7&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&exclude_repo=ml-model-for-gene-expression-of-prostate-cancer,first-envo" />
+</a>
+<a href="https://github.com/aviralrabbit1">
+  <img style="margin:0.5rem" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aviralrabbit1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&hide=contribs" alt="Aviral Verma's GitHub Stats" />
+</a>
+</p>
+<!-- [![Visits Badge](https://visitor-badge.laobi.icu/badge?page_id=aviralrabbit1)](https://aviral-3js-portfolio.web.app/) -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aviralrabbit1&theme=onedark)](https://github.com/aviralrabbit1)
+
+<details>
+<summary>Miscellaneous :</summary>
+
 - **Working**: 🔭 I’m currently working on ... a sci-fi themed nasa project(educational).
 - **Learning**: 🌱 I’m currently learning Node, MongoDB, CI/CD, Redux-toolkit.
 - **Collaboration** :👯 I’m looking to collaborate on any new interesting project.
-- **Hobbies** : Apart from development 🖥, I like music 🎹 and poetry ✍.
+- **Hobbies** : Apart from development 🖥, I like music 🎹 and poetry 📝✍.
+<!-- 
+[![Aviral's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aviralrabbit1&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+</details>
+<!-- 
+<a href="https://www.instagram.com/aviral.rabbit/">
+  <img align="right" alt="Aviral Verma | Instagram" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a> -->
