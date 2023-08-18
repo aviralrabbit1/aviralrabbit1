@@ -89,6 +89,8 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 </p>
 <!-- [![Visits Badge](https://visitor-badge.laobi.icu/badge?page_id=aviralrabbit1)](https://aviral-3js-portfolio.web.app/) -->
 
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=aviralrabbit1"></img>
+
 <p align="center">
     
 |[![trophy](https://github-profile-trophy.vercel.app/?username=aviralrabbit1&theme=onestar&margin-w=15&margin-h=15&column=-1)](https://github.com/aviralrabbit1)|
