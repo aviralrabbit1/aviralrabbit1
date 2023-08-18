@@ -1,6 +1,8 @@
 <p  align="center"><a  href="https://aviralrabbit1.github.io"><img alt="Hello, I'm Aviral!" src="assets/TEDxHBTI.jpg"  /></a></p>
 
-# Hello people! 👋👋 I am _Aviral Verma_. 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&vCenter=true&width=800&height=80&lines=Hello+people!+%F0%9F%91%8B%F0%9F%91%8B+Welcome+to+my+Profile!;I+am+Aviral+Verma%2C+a+tech+enthusiast.)](https://git.io/typing-svg)
+
+<!-- # Hello people! 👋👋 I am _Aviral Verma_.  -->
 
 ## A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45">
 
