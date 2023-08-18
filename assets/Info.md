@@ -1,5 +1,7 @@
 ### This folder stores assets (images, etc.)
 
+![](https://komarev.com/ghpvc/?username=aviralrabbit1&color=007bff&label=Profile+Views&style=for-the-badge)
+
 <img  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=aviralrabbit1"  width="auto"></img>
 
 ### Also, reach out to me here: 
@@ -11,6 +13,21 @@
 <!-- ![](https://count.getloli.com/get/@aviralrabbit1.github.readme) -->
 
 ---
+
+## 🎧 Spotify Playing
+
+<div align="center">
+
+<!-- https://github.com/kittinan/spotify-github-profile -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wpincgrtfosd7vwj2otz7pb2j&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=wpincgrtfosd7vwj2otz7pb2j&redirect=true)
+
+
+<details>
+    <summary>Recently played</summary>
+    <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-recently-played-readme.vercel.app/api?user=kript4&unique=true&count=10" alt="Spotify recently played"></a>
+</details>
+
+</div>
 
 #### Thanks for visiting :heart:
 
