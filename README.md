@@ -55,14 +55,20 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 </p>
 
 ## 🎊 Few of my projects:
+
+<p>
+<img width="400" height="200" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align="right">
+
 - [Connect-4](https://aviralrabbit1.github.io/connect-4/) : A game where you have to join 4 dots either horizontally, vertically or diagonally.
+  
 - [3js-world](https://aviral-3js-portfolio.web.app/) : A trial of three.js framework by me.
+  
 - [AMDB](https://amdb-zeta.vercel.app/) : A clone of IMDB movie app.
+  
 - [Chatroom](https://aviralchatrooms.netlify.app/) : A simple chat app based on [chatengine.io](chatengine.io)
+  
 
-
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=center>
-
+</p>
 
 ## 📫 Find me at -
 
@@ -72,21 +78,23 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-050c1b?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/aviral_robin)](https://www.hackerrank.com/aviral_robin)
 <!-- [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-fff?style=flat-square&logo=LeetCode&logoColor=gold&link=https://leetcode.com/aviralrabbit13/)](https://leetcode.com/aviralrabbit13/) -->
 
+<br>
 
 ### 📊 Quick Stats :
 
 <p align="center">
-<br>
-<a  href="https://github.com/aviralrabbit1">
-    <img  style="margin:0.5rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralrabbit1&layout=donut&hide=Html&langs_count=7&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&exclude_repo=ml-model-for-gene-expression-of-prostate-cancer,first-envo" />
-</a>
-<a href="https://github.com/aviralrabbit1">
-  <img style="margin:0.5rem" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aviralrabbit1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&hide=contribs" alt="Aviral Verma's GitHub Stats" />
-</a>
+
+| <a  href="https://github.com/aviralrabbit1"><img  style="margin:0.5rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralrabbit1&layout=donut&hide=Html&langs_count=7&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&exclude_repo=ml-model-for-gene-expression-of-prostate-cancer,first-envo"  /></a> | <a  href="https://github.com/aviralrabbit1"><img  style="margin:0.5rem"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=aviralrabbit1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&hide=contribs" alt="Aviral Verma's GitHub Stats" /></a> |
+| ------------- | ------------- |
 </p>
 <!-- [![Visits Badge](https://visitor-badge.laobi.icu/badge?page_id=aviralrabbit1)](https://aviral-3js-portfolio.web.app/) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aviralrabbit1&theme=onestar&margin-w=15&margin-h=15&column=-1)](https://github.com/aviralrabbit1)
+<p align="center">
+    
+|[![trophy](https://github-profile-trophy.vercel.app/?username=aviralrabbit1&theme=onestar&margin-w=15&margin-h=15&column=-1)](https://github.com/aviralrabbit1)|
+| -------------|
+
+</p>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=aviralrabbit1&theme=darkhub)](https://github.com/aviralrabbit1) -->
 
