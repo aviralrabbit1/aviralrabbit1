@@ -1,5 +1,13 @@
 ### This folder stores assets (images, etc.)
 
+<p align="center">
+
+<!-- BEGIN LATEST DOWNLOAD BUTTON -->
+[![Download this repo](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/aviralrabbit1/aviralrabbit1/archive/0.1.0.zip)
+<!-- END LATEST DOWNLOAD BUTTON -->
+
+</p>
+
 ![](https://komarev.com/ghpvc/?username=aviralrabbit1&color=007bff&label=Profile+Views&style=for-the-badge)
 
 <img  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=aviralrabbit1"  width="auto"></img>
@@ -35,6 +43,6 @@
 
 <p  align="center">
 
-<img  src="https://profile-counter.glitch.me/aviralrabbit1/count.svg">
+<!-- <img  src="https://profile-counter.glitch.me/aviralrabbit1/count.svg"> -->
 
 <a href="http://s11.flagcounter.com/more/9dz"><img src="https://s11.flagcounter.com/countxl/9dz/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_200/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
