@@ -8,6 +8,14 @@
 
 I have done my graduation from [HBTI Kanpur](https://hbtu.ac.in/) in **Biochemical Engineering** and my **Post graduation🎓** from [IIIT Allahabad](https://www.iiita.ac.in/) in **Information Technology (spl. in Bioinformatics)**. I'm a **Tech Enthusiast💻** passionate about learning and working with new tech, frameworks and libraries. 
 
+### 📫 Want to talk? 
+<em><b>I love connecting with different people.</b> 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
+Pick a slot if you'd like to chat about anything you are passionate about or want to collaborate.
+
+<a href="https://calendly.com/aviral-verma/30-min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
 ## Experience
 
 I've collaborated in the development of an open source novel full-stack language/library framework **FTD** in an Indian-based tech startup [FifthTry](https://www.fifthtry.com/) as a **Software/backend Developer Intern** 💼, where i employed Rust, Django, and **FTD** as the tech stack for development.
