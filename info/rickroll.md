@@ -1,1 +1,1 @@
-<img alt="You got rick rolled." src="https://github.com/tiaanduplessis/tiaanduplessis/blob/master/rolled.gif?raw=true" width="100%">
+<img alt="You got rick rolled." src="https://github.com/aviralrabbit1/aviralrabbit1/blob/main/assets/rolled.gif" width="100%">
