@@ -3,10 +3,11 @@
 <p align="center">
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download this repo](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/aviralrabbit1/aviralrabbit1/archive/0.1.0.zip)
+<!-- [![Download this repo](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/aviralrabbit1/aviralrabbit1/archive/0.1.0.zip) -->
 <!-- END LATEST DOWNLOAD BUTTON -->
 
 </p>
+
 
 ![](https://komarev.com/ghpvc/?username=aviralrabbit1&color=007bff&label=Profile+Views&style=for-the-badge)
 
