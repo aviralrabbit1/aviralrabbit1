@@ -130,6 +130,9 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 
 <!-- ![Aviral's github activity graph](https://raw.githubusercontent.com/aviralrabbit1/aviralrabbit1/output/github-contribution-grid-snake.svg) -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </details>
 <!-- 
 <a href="https://www.instagram.com/aviral.rabbit/">
