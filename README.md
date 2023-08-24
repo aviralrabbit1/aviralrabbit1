@@ -2,8 +2,6 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&vCenter=true&width=800&height=80&lines=Hello+people!+%F0%9F%91%8B%F0%9F%91%8B+Welcome+to+my+Profile!;I+am+Aviral+Verma%2C+a+tech+enthusiast.)](https://git.io/typing-svg)
 
-<!-- # Hello people! 👋👋 I am _Aviral Verma_.  -->
-
 ## A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45">
 
 I have done my graduation from [HBTI Kanpur](https://hbtu.ac.in/) in **Biochemical Engineering** and my **Post graduation🎓** from [IIIT Allahabad](https://www.iiita.ac.in/) in **Information Technology (spl. in Bioinformatics)**. I'm a **Tech Enthusiast💻** passionate about learning and working with new tech, frameworks and libraries. 
@@ -96,7 +94,7 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 
 <p align="center">
 
-| <a  href="https://github.com/aviralrabbit1"><img  style="margin:0.5rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralrabbit1&layout=donut&hide=Html&langs_count=7&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&exclude_repo=ml-model-for-gene-expression-of-prostate-cancer,first-envo"  /></a> | <a  href="https://github.com/aviralrabbit1"><img  style="margin:0.5rem"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=aviralrabbit1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&hide=contribs" alt="Aviral Verma's GitHub Stats" /></a> |
+| <a  href="https://github.com/aviralrabbit1"><img  style="margin:0.5rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralrabbit1&layout=donut&hide=Html&langs_count=7&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&exclude_repo=ml-model-for-gene-expression-of-prostate-cancer,first-envo"  /></a> | <a  href="https://github.com/aviralrabbit1"><img  style="margin:0.5rem"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=aviralrabbit1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&hide=contrib" alt="Aviral Verma's GitHub Stats" /></a> |
 | ------------- | ------------- |
 </p>
 <!-- [![Visits Badge](https://visitor-badge.laobi.icu/badge?page_id=aviralrabbit1)](https://aviral-3js-portfolio.web.app/) -->
@@ -127,16 +125,16 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 
 ![](https://komarev.com/ghpvc/?username=aviralrabbit1&color=blue)
 
-<!-- 
-[![Aviral's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aviralrabbit1&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- ![Aviral's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg) -->
+[![Aviral's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aviralrabbit1&layout=compact)](https://github.com/aviralrabbit1/github-readme-stats)
+
+<!-- ![Aviral's github activity graph](https://raw.githubusercontent.com/aviralrabbit1/aviralrabbit1/output/github-contribution-grid-snake.svg) -->
 
 </details>
 <!-- 
 <a href="https://www.instagram.com/aviral.rabbit/">
-  <img align="right" alt="Aviral Verma | Instagram" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="right" alt="Aviral Verma | Instagram" width="25px" src="https://raw.githubusercontent.com/anuraghazra/aviralrabbit1/master/assets/twitter.svg" />
 </a>
 <a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img align="right" alt="Aviral Verma | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/aviralrabbit1/aviralrabbit1/master/assets/codesandbox.svg" />
 </a> -->
