@@ -123,7 +123,7 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 - **Collaboration** :👯 I’m looking to collaborate on any new interesting project.
 - **Hobbies** : I like music 🎹, poetry 📝✍ , anime and gaming 🎮.
 
-![](https://komarev.com/ghpvc/?username=aviralrabbit1&color=blue)
+<!-- ![](https://komarev.com/ghpvc/?username=aviralrabbit1&color=blue) -->
 
 
 [![Aviral's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aviralrabbit1&layout=compact)](https://github.com/aviralrabbit1/github-readme-stats)
