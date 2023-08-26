@@ -16,7 +16,7 @@ Pick a slot if you'd like to chat about anything you are passionate about or wan
 
 ## Experience
 
-I've collaborated in the development of an open source novel full-stack language/library framework **FTD** in an Indian-based tech startup [FifthTry](https://www.fifthtry.com/) as a **Software/backend Developer Intern** 💼, where i employed Rust, Django, and **FTD** as the tech stack for development.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> 
+I've collaborated in the development of an open source novel full-stack language/library framework [**fastn-stack**](https://github.com/fastn-stack) (formerly **FTD**) with the github profile [**AviralVerma13**](https://github.com/AviralVerma13). in an Indian-based tech startup [FifthTry](https://www.fifthtry.com/) as a **Software/backend Developer Intern** 💼, where i employed Rust, Django, and **FTD** as the tech stack for development.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> 
 
 There I played a role in the configuration of Continuous Integration/Continuous Deployment (CI/CD) for the FTD starter template and facilitated Debian installation on Linux-based systems along with developing package manager (FPM, now FASTN) functionality by incorporating additional tests for its commands.
 
