@@ -16,8 +16,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "False"
           # SHOW_PROJECTS: "False"
-          SHOW_LINES_OF_CODE: "True"
-          # SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
           # SHOW_PROFILE_VIEWS: "True"
           SHOW_UPDATED_DATE: "True"
           # SHOW_TIMEZONE: "True"
@@ -33,4 +33,4 @@ jobs:
           # SHOW_SHORT_INFO: "True"
           SHOW_LOC_CHART: "False"
           IGNORED_REPOS: "ml-model-for-gene-expression-of-prostate-cancer"
-          SYMBOL_VERSION: 3
+          SYMBOL_VERSION: 1
