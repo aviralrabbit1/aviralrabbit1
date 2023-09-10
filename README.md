@@ -90,7 +90,7 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 
 <br>
 
-### 📊 Quick Stats :
+### <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> Quick Stats : <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
 
 <p align="center">
 
