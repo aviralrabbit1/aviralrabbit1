@@ -39,9 +39,8 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 
 <!-- ![rocket](https://github.githubassets.com/images/icons/emoji/unicode/1f680.png)  -->
 
-## Technologies I've Learned/Worked with:
-
 <div style="text-align: center;">
+    <h2>Technologies I've Learned/Worked with:</h2>
     <p>
         <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" style="float: right; margin: 0 0 10px 10px;">
         - Rust<br>
@@ -66,6 +65,7 @@ There I played a role in the configuration of Continuous Integration/Continuous 
     <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"></a>
     <a href="https://www.mongodb.com/" target="_blank"><img src="https://w7.pngwing.com/pngs/63/19/png-transparent-mongodb-database-nosql-postgresql-mongo-text-logo-business-thumbnail.png" alt="mongodb" width="40" height="40"></a>
 </div>
+
 
 
 ## 🖥️ Setup i have worked with:
