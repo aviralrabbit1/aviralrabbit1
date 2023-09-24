@@ -49,7 +49,7 @@ There I played a role in the configuration of Continuous Integration/Continuous 
         - Node<br>
         - Django<br>
         - C++<br>
-        - Firebase<br>
+        - Firebase
     </p>
 </div>
 
