@@ -39,9 +39,10 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 
 <!-- ![rocket](https://github.githubassets.com/images/icons/emoji/unicode/1f680.png)  -->
 
+## Technologies I've Learned/Worked with: 
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## Technologies I've Learned/Worked with: 
 - Rust
 - React
 - Node
