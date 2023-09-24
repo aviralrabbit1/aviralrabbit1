@@ -39,9 +39,9 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 
 <!-- ![rocket](https://github.githubassets.com/images/icons/emoji/unicode/1f680.png)  -->
 
-<h2>Technologies I've Learned/Worked with:</h2>
-<p>
+## Technologies I've Learned/Worked with:
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="230" style="float: right;">
+<p>
      
    - Rust
      
