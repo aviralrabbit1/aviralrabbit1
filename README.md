@@ -44,14 +44,12 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 <div style="text-align: center;">
     <p>
         <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" style="float: right; margin: 0 0 10px 10px;">
-         <p>
         - Rust<br>
         - React<br>
         - Node<br>
         - Django<br>
         - C++<br>
         - Firebase<br>
-         </p>
     </p>
 </div>
 
