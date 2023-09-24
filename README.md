@@ -41,7 +41,7 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## <pre> Technologies I've Learned/Worked with: </pre>
+## Technologies I've Learned/Worked with: 
 - Rust
 - React
 - Node
