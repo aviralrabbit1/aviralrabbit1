@@ -51,9 +51,7 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 - Django
 - C++
 - Firebase
-</p>
 
-<p align="center"> 
 <a href="https://reactjs.org/" target="_blank"><code> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/></code></a>
 <a href="https://cplusplus.com/" target="_blank" ><code><<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code></a>
 <a href="https://html.com/" target="_blank"><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code></a>
