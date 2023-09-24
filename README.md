@@ -6,25 +6,30 @@
 
 I have done my graduation from [HBTI Kanpur](https://hbtu.ac.in/) in **Biochemical Engineering** and my **Post graduation🎓** from [IIIT Allahabad](https://www.iiita.ac.in/) in **Information Technology (spl. in Bioinformatics)**. I'm a **Tech Enthusiast💻** passionate about learning and working with new tech, frameworks and libraries. 
 
-### 📫 Want to talk? 
-<em><b>I love connecting with different people.</b> 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-
-Pick a slot if you'd like to chat about anything you are passionate about or want to collaborate.
-
 <!-- <a href="https://calendly.com/aviral-verma/30-min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a> -->
-<div style="display: flex; justify-content: space-between;">
-    <div>
-        <a href="https://www.picktime.com/abdd237e-2bff-4ad3-b24a-fea96c268a7a" class="ptbkbtn" target="_blank" style="float: none;">
-            <img border="none" src="https://www.picktime.com/img/widgetButtons/BookingPage/picktime-book-online-green.png" alt="Book an appointment with N/A"/>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+     <a href="https://www.picktime.com/abdd237e-2bff-4ad3-b24a-fea96c268a7a" 
+            class="ptbkbtn" target="_blank" style="float: none;">
+        <img border="none" align="right" width="200px" alt="Book an appointment with N/A"
+            src="https://github.com/aviralrabbit1/aviralrabbit1/assets/54033735/d9291d18-39c2-4190-864a-dbcf72e84c59"/>
+     </a>
+    <div style="flex: 1;">
+        <div>
+        <h2>📫 Want to talk? </h2>
+        <em><b>I love connecting with different people.</b></em>
+        <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+        <p>Pick a slot if you'd like to chat about anything </p>
+        <p>you are passionate about or want to collaborate.</p>
+        <a class="ptbkbtn" target="_blank" style="float: none;"
+            href="https://www.picktime.com/abdd237e-2bff-4ad3-b24a-fea96c268a7a" >
+            <img border="none" alt="Book an appointment with N/A"
+                src="https://www.picktime.com/img/widgetButtons/BookingPage/picktime-book-online-green.png" />
         </a>
-    </div>
-    <div>
-        <a href="https://www.picktime.com/abdd237e-2bff-4ad3-b24a-fea96c268a7a" class="ptbkbtn" target="_blank" style="float: none;">
-            <img border="none" width="200px" src="https://github.com/aviralrabbit1/aviralrabbit1/assets/54033735/d9291d18-39c2-4190-864a-dbcf72e84c59" alt="Book an appointment with N/A"/>
-        </a>
+        </div>
     </div>
 </div>
+
 
 ## Experience
 
