@@ -41,8 +41,10 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 
    
 ## Technologies I've Learned/Worked with:
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="200" style="float: right;">
+
 <p>
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="230" style="float: right;">
      
    - Rust
      
@@ -55,6 +57,7 @@ There I played a role in the configuration of Continuous Integration/Continuous 
    - C++
      
    - Firebase
+
 </p>
 
 <div style="text-align: center;">
