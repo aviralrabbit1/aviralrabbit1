@@ -91,6 +91,12 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 <img src="https://img.shields.io/badge/Intellij Idea-555555?style=flat-square&logo=Intellijidea&logoColor=white&bg_color=000">
 <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626">
 <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760">
+<a href="https://gitmoji.dev">
+  <img
+    src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
+    alt="Gitmoji"
+  />
+</a>
 
 </p>
 
