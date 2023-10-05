@@ -2,6 +2,19 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&vCenter=true&width=800&height=80&lines=Hello+people!+Welcome+to+my+Profile!;I+am+Aviral+Verma%2C+a+tech+enthusiast.)](https://git.io/typing-svg)
 
+Contents (TOC):
+
+1. [Introduction](#a-little-about-me-)
+2. [Experience](#experience)
+3. [Technologies I've Learned/Worked with](#technologies-ive-learnedworked-with)
+4. [Setup I Have Worked With](#%EF%B8%8F-setup-i-have-worked-with)
+5. [My Projects](#-few-of-my-projects)
+6. [Find Me](#-find-me-at--)
+7. [Quick Stats](#-quick-stats--)
+8. [Miscellaneous](#miscellaneous)
+
+You can use these links to navigate to specific sections in the Markdown file.
+
 ## A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45">
 
 I have done my graduation from [HBTI Kanpur](https://hbtu.ac.in/) in **Biochemical Engineering** and my **Post graduation🎓** from [IIIT Allahabad](https://www.iiita.ac.in/) in **Information Technology (spl. in Bioinformatics)**. I'm a **Tech Enthusiast💻** passionate about learning and working with new tech, frameworks and libraries. 
