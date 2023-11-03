@@ -1,6 +1,5 @@
 <p  align="center"><a  href="https://aviralrabbit1.github.io"><img alt="Hello, I'm Aviral!" src="assets/TEDxHBTI.jpg"  /></a></p>
 
-
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&vCenter=true&width=800&height=80&lines=Hello+people!+Welcome+to+my+Profile!;I+am+Aviral+Verma%2C+a+tech+enthusiast.)](https://git.io/typing-svg)
 
 Contents (TOC):
