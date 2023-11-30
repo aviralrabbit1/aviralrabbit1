@@ -148,7 +148,11 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 
 | <a  href="https://github.com/aviralrabbit1"><img  style="margin:0.5rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralrabbit1&layout=donut&hide=Html&langs_count=7&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&exclude_repo=ml-model-for-gene-expression-of-prostate-cancer,first-envo"  /></a> | <a  href="https://github.com/aviralrabbit1"><img  style="margin:0.5rem"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=aviralrabbit1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&hide=contrib" alt="Aviral Verma's GitHub Stats" /></a> |
 | ------------- | ------------- |
+
 </p>
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aviralrabbit1&theme=radical)
 <!-- [![Visits Badge](https://visitor-badge.laobi.icu/badge?page_id=aviralrabbit1)](https://aviral-3js-portfolio.web.app/) -->
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=aviralrabbit1"></img>
