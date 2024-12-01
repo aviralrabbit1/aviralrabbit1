@@ -191,7 +191,9 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 
 **🐱 My GitHub Data** 
 
-> 📦 104.5 kB Used in GitHub's Storage 
+> 📦 104.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 737 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -199,39 +201,6 @@ There I played a role in the configuration of Continuous Integration/Continuous 
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                385 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-🌆 Daytime                319 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-🌃 Evening                1017 commits        ███████░░░░░░░░░░░░░░░░░░   29.01 % 
-🌙 Night                  1785 commits        █████████████░░░░░░░░░░░░   50.91 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   504 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Tuesday                  526 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Wednesday                513 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Thursday                 456 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Friday                   453 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Saturday                 494 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Sunday                   560 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -245,7 +214,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2024 18:46:34 UTC
+ Last Updated on 01/12/2024 18:47:16 UTC
 <!--END_SECTION:waka-->
 
 </details>
