@@ -187,11 +187,13 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 <!-- ![Aviral's github activity graph](https://raw.githubusercontent.com/aviralrabbit1/aviralrabbit1/output/github-contribution-grid-snake.svg) -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 106.0 kB Used in GitHub's Storage 
+> 📦 106.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 330 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -204,19 +206,19 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 ```text
 🌞 Morning                422 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
 🌆 Daytime                322 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-🌃 Evening                1222 commits        ████████░░░░░░░░░░░░░░░░░   31.02 % 
-🌙 Night                  1974 commits        █████████████░░░░░░░░░░░░   50.10 % 
+🌃 Evening                1223 commits        ████████░░░░░░░░░░░░░░░░░   31.02 % 
+🌙 Night                  1975 commits        █████████████░░░░░░░░░░░░   50.10 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   556 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Tuesday                  580 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Wednesday                576 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Thursday                 528 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Monday                   558 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Tuesday                  580 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Wednesday                576 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Thursday                 528 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
 Friday                   532 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
 Saturday                 551 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Sunday                   617 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Sunday                   617 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
 ```
 
 
@@ -249,7 +251,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2025 18:48:32 UTC
+ Last Updated on 19/05/2025 18:51:56 UTC
 <!--END_SECTION:waka-->
 
 </details>
