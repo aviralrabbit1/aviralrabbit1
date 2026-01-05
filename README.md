@@ -187,13 +187,13 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 <!-- ![Aviral's github activity graph](https://raw.githubusercontent.com/aviralrabbit1/aviralrabbit1/output/github-contribution-grid-snake.svg) -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 115.8 kB Used in GitHub's Storage 
+> 📦 114.2 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2026
+> 🏆 11 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -201,6 +201,40 @@ There I played a role in the configuration of Continuous Integration/Continuous 
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                461 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+🌆 Daytime                382 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+🌃 Evening                1550 commits        ████████░░░░░░░░░░░░░░░░░   32.85 % 
+🌙 Night                  2325 commits        ████████████░░░░░░░░░░░░░   49.28 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   669 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Tuesday                  702 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Wednesday                671 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Thursday                 633 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Friday                   658 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Saturday                 643 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Sunday                   742 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               4 mins              ██████████████████░░░░░░░   71.40 % 
+JSON                     1 min               ███████░░░░░░░░░░░░░░░░░░   28.60 % 
+
+🐱‍💻 Projects: 
+angular-playground       5 mins              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -214,7 +248,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2026 18:54:13 UTC
+ Last Updated on 05/01/2026 18:59:19 UTC
 <!--END_SECTION:waka-->
 
 </details>
