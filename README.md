@@ -187,13 +187,13 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 <!-- ![Aviral's github activity graph](https://raw.githubusercontent.com/aviralrabbit1/aviralrabbit1/output/github-contribution-grid-snake.svg) -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 115.4 kB Used in GitHub's Storage 
+> 📦 116.1 kB Used in GitHub's Storage 
  > 
-> 🏆 64 Contributions in the Year 2026
+> 🏆 67 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -201,6 +201,40 @@ There I played a role in the configuration of Continuous Integration/Continuous 
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                461 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+🌆 Daytime                382 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+🌃 Evening                1570 commits        ████████░░░░░░░░░░░░░░░░░   32.89 % 
+🌙 Night                  2361 commits        ████████████░░░░░░░░░░░░░   49.46 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   676 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Tuesday                  708 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Wednesday                680 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Thursday                 641 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Friday                   667 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Saturday                 652 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Sunday                   750 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               16 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+tenderfy_api             10 mins             █████████████████░░░░░░░░   66.01 % 
+api                      5 mins              ████████░░░░░░░░░░░░░░░░░   33.99 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -214,7 +248,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2026 19:03:42 UTC
+ Last Updated on 03/02/2026 19:29:45 UTC
 <!--END_SECTION:waka-->
 
 </details>
