@@ -191,9 +191,9 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 
 **🐱 My GitHub Data** 
 
-> 📦 120.7 kB Used in GitHub's Storage 
+> 📦 121.1 kB Used in GitHub's Storage 
  > 
-> 🏆 417 Contributions in the Year 2026
+> 🏆 419 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -201,6 +201,47 @@ There I played a role in the configuration of Continuous Integration/Continuous 
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                461 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+🌆 Daytime                383 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+🌃 Evening                1579 commits        ████████░░░░░░░░░░░░░░░░░   30.79 % 
+🌙 Night                  2705 commits        █████████████░░░░░░░░░░░░   52.75 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   730 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Tuesday                  755 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Wednesday                728 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Thursday                 691 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Friday                   718 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Saturday                 708 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Sunday                   798 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JSON                     37 mins             ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+Bash                     29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+Markdown                 23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+JavaScript               23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Other                    19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+
+🐱‍💻 Projects: 
+fourlegs_api             1 hr                ███████████░░░░░░░░░░░░░░   45.18 % 
+observer-sessions        30 mins             ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+fourlegs-superadmin      21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Production gitlab        12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+api                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -214,7 +255,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 19:59:21 UTC
+ Last Updated on 25/07/2026 19:47:31 UTC
 <!--END_SECTION:waka-->
 
 </details>
