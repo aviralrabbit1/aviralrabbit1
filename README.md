@@ -187,15 +187,15 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 <!-- ![Aviral's github activity graph](https://raw.githubusercontent.com/aviralrabbit1/aviralrabbit1/output/github-contribution-grid-snake.svg) -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 120.5 kB Used in GitHub's Storage 
+> 📦 121.0 kB Used in GitHub's Storage 
  > 
-> 🏆 440 Contributions in the Year 2026
+> 🏆 442 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -203,83 +203,20 @@ There I played a role in the configuration of Continuous Integration/Continuous 
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                461 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-🌆 Daytime                383 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-🌃 Evening                1579 commits        ████████░░░░░░░░░░░░░░░░░   30.67 % 
-🌙 Night                  2726 commits        █████████████░░░░░░░░░░░░   52.94 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   734 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Tuesday                  758 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Wednesday                732 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Thursday                 694 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Friday                   720 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Saturday                 710 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Sunday                   801 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               7 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   36.96 % 
-TypeScript               5 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-HTML                     2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Markdown                 2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-SQL                      1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-
-🐱‍💻 Projects: 
-fourlegs_api             8 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   41.51 % 
-fourlegs_rto_admin       3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Production gitlab        3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-fourlegs_superadmin      1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-rto_admin                1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 14 hrs 35 mins (67.58%)
-
-✍️ 13,543 lines written by AI, 803 lines written by hand (94.4% AI-written)
-
-🔤 238,579,459 Input Tokens, 563,372 Output Tokens
-
-💵 $1206.68 Estimated AI Cost This Week
-
-🧠 9 AI Sessions, 64 AI Prompts
-
-Opus                     14,421 lines        █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 94.4% of written lines came from AI
-📚 Verbose Prompter — average 3,321 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 6.49% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               29 repos            █████████████░░░░░░░░░░░░   52.73 % 
-TypeScript               15 repos            ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+JavaScript               29 repos            █████████████░░░░░░░░░░░░   53.70 % 
+TypeScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
 
 
 
- Last Updated on 05/08/2026 20:13:22 UTC
+ Last Updated on 07/08/2026 00:27:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
