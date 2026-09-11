@@ -187,15 +187,15 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 <!-- ![Aviral's github activity graph](https://raw.githubusercontent.com/aviralrabbit1/aviralrabbit1/output/github-contribution-grid-snake.svg) -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-89%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-91%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 123.3 kB Used in GitHub's Storage 
+> 📦 121.0 kB Used in GitHub's Storage 
  > 
-> 🏆 511 Contributions in the Year 2026
+> 🏆 513 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -206,10 +206,10 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                465 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-🌆 Daytime                383 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-🌃 Evening                1584 commits        ████████░░░░░░░░░░░░░░░░░   30.34 % 
-🌙 Night                  2788 commits        █████████████░░░░░░░░░░░░   53.41 % 
+🌞 Morning                465 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+🌆 Daytime                383 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+🌃 Evening                1584 commits        ████████░░░░░░░░░░░░░░░░░   30.33 % 
+🌙 Night                  2790 commits        █████████████░░░░░░░░░░░░   53.43 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
@@ -217,10 +217,10 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 Monday                   742 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
 Tuesday                  767 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
 Wednesday                743 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Thursday                 704 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Friday                   731 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Saturday                 722 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Sunday                   811 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Thursday                 704 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Friday                   732 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Saturday                 723 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Sunday                   811 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
 ```
 
 
@@ -230,42 +230,42 @@ Sunday                   811 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               16 hrs 59 mins      ██████████████░░░░░░░░░░░   54.95 % 
-TypeScript               5 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-Markdown                 4 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Other                    2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-JSON                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+JavaScript               14 hrs 3 mins       ████████████░░░░░░░░░░░░░   48.93 % 
+TypeScript               6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+Markdown                 4 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Other                    1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+HTML                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 
 🐱‍💻 Projects: 
-fourlegs_api             16 hrs 31 mins      █████████████░░░░░░░░░░░░   53.44 % 
-Production gitlab        4 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-rto_admin                2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-fourlegs_superadmin      2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-observer-sessions        1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+fourlegs_api             14 hrs 41 mins      █████████████░░░░░░░░░░░░   51.09 % 
+fourlegs_superadmin      3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Production gitlab        3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+rto_admin                2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+practical-trainer        1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 1 min (48.63%)
+⏱ AI Coding Time: 12 hrs 19 mins (42.9%)
 
-✍️ 4,894 lines written by AI, 922 lines written by hand (84.15% AI-written)
+✍️ 3,249 lines written by AI, 937 lines written by hand (77.62% AI-written)
 
-🔤 4,408,832 Input Tokens, 499,292 Output Tokens
+🔤 2,548,037 Input Tokens, 373,960 Output Tokens
 
-💵 $119.85 Estimated AI Cost This Week
+💵 $70.89 Estimated AI Cost This Week
 
-🧠 146 AI Sessions, 234 AI Prompts
+🧠 123 AI Sessions, 194 AI Prompts
 
-Opus                     5,246 lines         █████████████████████████   100.00 % 
+Opus                     3,473 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.15% of written lines came from AI
-📚 Verbose Prompter — average 74,200 characters per prompt
+🤖 AI-Driven — 77.62% of written lines came from AI
+📚 Verbose Prompter — average 73,920 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 39.8% of changed lines were hand-edited
+🚀 High AI Trust — 47.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -281,7 +281,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 21:09:45 UTC
+ Last Updated on 11/09/2026 21:14:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
