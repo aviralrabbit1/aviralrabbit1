@@ -187,15 +187,15 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 <!-- ![Aviral's github activity graph](https://raw.githubusercontent.com/aviralrabbit1/aviralrabbit1/output/github-contribution-grid-snake.svg) -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-111%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-113%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 122.3 kB Used in GitHub's Storage 
+> 📦 122.7 kB Used in GitHub's Storage 
  > 
-> 🏆 559 Contributions in the Year 2026
+> 🏆 561 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -206,21 +206,21 @@ There I played a role in the configuration of Continuous Integration/Continuous 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                465 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+🌞 Morning                465 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 🌆 Daytime                383 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-🌃 Evening                1584 commits        ████████░░░░░░░░░░░░░░░░░   30.07 % 
-🌙 Night                  2836 commits        █████████████░░░░░░░░░░░░   53.83 % 
+🌃 Evening                1584 commits        ████████░░░░░░░░░░░░░░░░░   30.06 % 
+🌙 Night                  2838 commits        █████████████░░░░░░░░░░░░   53.85 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   749 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Tuesday                  773 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Wednesday                749 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Thursday                 710 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Friday                   738 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Saturday                 730 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-Sunday                   819 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Monday                   750 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Tuesday                  774 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Wednesday                749 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Thursday                 710 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Friday                   738 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Saturday                 730 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Sunday                   819 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
 ```
 
 
@@ -230,42 +230,42 @@ Sunday                   819 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    2 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   33.70 % 
-Markdown                 2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   32.04 % 
-JavaScript               1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-HTML                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-SQL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Other                    5 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   37.08 % 
+JavaScript               4 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   29.66 % 
+Markdown                 3 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+HTML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 🐱‍💻 Projects: 
-fourlegs_api             2 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   39.01 % 
-observer-sessions        1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
-Production gitlab        1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-rto_admin                38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-trainer-and-assessor     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+fourlegs_api             6 hrs 54 mins       ███████████░░░░░░░░░░░░░░   45.85 % 
+observer-sessions        3 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+Production gitlab        2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+employer                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+rto_admin                36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 34 mins (79.93%)
+⏱ AI Coding Time: 12 hrs 39 mins (84.01%)
 
-✍️ 4,725 lines written by AI, 44 lines written by hand (99.08% AI-written)
+✍️ 7,838 lines written by AI, 270 lines written by hand (96.67% AI-written)
 
-🔤 2,676,339 Input Tokens, 495,801 Output Tokens
+🔤 4,539,419 Input Tokens, 1,107,149 Output Tokens
 
-💵 $49.04 Estimated AI Cost This Week
+💵 $114.49 Estimated AI Cost This Week
 
-🧠 75 AI Sessions, 101 AI Prompts
+🧠 172 AI Sessions, 221 AI Prompts
 
-Opus                     3,181 lines         █████████████████░░░░░░░░   67.14 % 
-Sonnet                   1,557 lines         ████████░░░░░░░░░░░░░░░░░   32.86 % 
+Opus                     6,375 lines         ████████████████████░░░░░   80.37 % 
+Sonnet                   1,557 lines         █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.08% of written lines came from AI
-📚 Verbose Prompter — average 39,455 characters per prompt
+🤖 AI-Driven — 96.67% of written lines came from AI
+📚 Verbose Prompter — average 57,303 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 1.06% of changed lines were hand-edited
+🚀 High AI Trust — 9.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -281,7 +281,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 21:52:45 UTC
+ Last Updated on 06/10/2026 00:18:33 UTC
 <!--END_SECTION:waka-->
 
 </details>
